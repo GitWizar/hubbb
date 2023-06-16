@@ -1,0 +1,18 @@
+body{
+  background-color: lightblue;
+}
+hr{
+
+  border-style: none;
+  border-top: dotted;
+  border-color: black;
+  border-width: 5px;
+  height: 5;
+  width:5%;
+}
+img{
+  height: 250px
+}
+h1{
+  color:black ;
+}
